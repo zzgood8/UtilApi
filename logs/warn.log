@@ -1,0 +1,4 @@
+[08:47:02:991] [WARN] - com.zbx.utilapi.UtilApiApplication.main(UtilApiApplication.java:13) - 警告信息
+[08:47:02:991] [ERROR] - com.zbx.utilapi.UtilApiApplication.main(UtilApiApplication.java:15) - 错误信息
+[16:50:05:954] [WARN] - com.zbx.utilapi.UtilApiApplication.main(UtilApiApplication.java:13) - 警告信息
+[16:50:05:955] [ERROR] - com.zbx.utilapi.UtilApiApplication.main(UtilApiApplication.java:15) - 错误信息
